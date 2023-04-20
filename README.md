@@ -1,4 +1,6 @@
-# Welcome to ruskinbk's GitHub page!  ![Profile](https://visitor-badge.glitch.me/badge?page_id=ruskinbk.ruskinbk)
+# Welcome to ruskinbk's GitHub page!  ![visitors](https://visitor-badge.glitch.me/badge?page_id=ruskinbk.ruskinbk)
+
+
 
 <img src="https://media.giphy.com/media/26u6dIwIphLj8h10A/giphy.gif" width="700" height="525">
 
@@ -7,8 +9,8 @@
 
 ## About Me
 
-Hi there, I'm ruskinbk - Csit Student from the [Nepal](https://www.google.com/search?q=nepal)
- Here are a few of my hobbies:
+Hi there, I'm ruskinbk - Csit Student from the [Nepal](https://www.google.com/search?q=nepal).
+Here are a few of my hobbies:
 
 - 📷 Photography
 - 📚 Reading
@@ -19,12 +21,18 @@ Hi there, I'm ruskinbk - Csit Student from the [Nepal](https://www.google.com/se
 
 Here are some of the programming languages and frameworks I'm familiar with:
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+## Currently Learning:
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
 
 ## Other Activities:
 

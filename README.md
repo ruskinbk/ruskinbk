@@ -7,7 +7,8 @@
 
 ## About Me
 
-Hi there, I'm ruskinbk - a software engineer from the United States! Here are a few of my hobbies:
+Hi there, I'm ruskinbk - Csit Student from the [Nepal](https://www.google.com/search?q=nepal)
+ Here are a few of my hobbies:
 
 - 📷 Photography
 - 📚 Reading

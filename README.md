@@ -1,9 +1,7 @@
-# Welcome to ruskinbk's GitHub page!  ![visitors](https://visitor-badge.glitch.me/badge?page_id=ruskinbk.ruskinbk)
-
+# Welcome to ruskinbk's GitHub page! ![Visitors](https://visitor-badge.glitch.me/badge?page_id=ruskinbk.ruskinbk)
 
 
 <img src="https://media.giphy.com/media/26u6dIwIphLj8h10A/giphy.gif" width="700" height="525">
-
 
 
 

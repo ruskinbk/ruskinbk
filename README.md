@@ -1,4 +1,4 @@
-# Welcome to ruskinbk's GitHub page!  ![Visitors](https://shields.io/badge/dynamic/json?color=blue&label=Profile+Views&query=%24.data.profile_views&url=https%3A%2F%2Fapi.countapi.xyz%2Fget%2Fruskinbk%2Fprofile_views)
+# Welcome to ruskinbk's GitHub page!  
 
 
 

@@ -1,4 +1,5 @@
-# Welcome to ruskinbk's GitHub page!
+# Welcome to ruskinbk's GitHub page!  ![Visitors](https://shields.io/badge/dynamic/json?color=blue&label=Profile+Views&query=%24.data.profile_views&url=https%3A%2F%2Fapi.countapi.xyz%2Fget%2Fruskinbk%2Fprofile_views)
+
 
 
 <img src="https://media.giphy.com/media/26u6dIwIphLj8h10A/giphy.gif" width="700" height="525">

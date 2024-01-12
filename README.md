@@ -42,7 +42,7 @@ Here are some of the programming languages and frameworks I'm familiar with:
 
 ## Stats
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dyells07&theme=tokyonight" alt="ruskinbk" /></p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruskinbk&theme=tokyonight" alt="ruskinbk" /></p>
 </p>
 
 ## Top Languages

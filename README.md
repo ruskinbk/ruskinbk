@@ -52,8 +52,6 @@ Here's a list of the programming languages I've used on GitHub:
 
 ## Let's Connect
 
-## Let's Connect
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/ruskin-bk-876760166/)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter&labelColor=blue)](https://twitter.com/bk_ruskin)
 [![Facebook](https://img.shields.io/badge/Facebook-blue?style=flat-square&logo=facebook&labelColor=blue)](https://www.facebook.com/usernamedoesnotmatter/)

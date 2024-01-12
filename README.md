@@ -1,4 +1,5 @@
 # Hello, I'm Ruskin BK! 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dyells07&label=Profile%20views&color=0e75b6&style=flat" alt="dyells07" /> </p>
 
 
 
@@ -30,8 +31,8 @@ Here are some of the programming languages and frameworks I'm familiar with:
 
 ## Currently Learning:
 
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ## Other Activities:
 
@@ -39,13 +40,19 @@ Here are some of the programming languages and frameworks I'm familiar with:
 ![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-EA77FF?style=for-the-badge&logo=Adobe-Premiere-Pro&logoColor=white)
 ![Gaming](https://img.shields.io/badge/Gaming-ED1C24?style=for-the-badge&logo=playstation&logoColor=white)
 
-## Top Languages
+## Stats
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dyells07&theme=tokyonight" alt="ruskinbk" /></p>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact)
+## Top Languages
+Here's a list of the programming languages I've used on GitHub:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruskinbk&layout=compact&theme=radical)
 
 ## Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/ruskin-bk-876760166/)
-- [Twitter](https://twitter.com/bk_ruskin)
-- [Facebbok](https://www.facebook.com/usernamedoesnotmatter/)
+[LinkedIn](https://www.linkedin.com/in/ruskin-bk-876760166/)
+[Twitter](https://twitter.com/bk_ruskin)
+[Facebbok](https://www.facebook.com/usernamedoesnotmatter/)
 

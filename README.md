@@ -1,4 +1,4 @@
-# Welcome to ruskinbk's GitHub page!  
+# Hello, I'm Ruskin BK! 👋
 
 
 
@@ -9,6 +9,8 @@
 ## About Me
 
 Hi there, I'm ruskinbk - Csit Student from the [Nepal](https://www.google.com/search?q=nepal).
+Welcome to my GitHub profile!
+
 Here are a few of my hobbies:
 
 - 📷 Photography
@@ -39,10 +41,16 @@ Here are some of the programming languages and frameworks I'm familiar with:
 ![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-EA77FF?style=for-the-badge&logo=Adobe-Premiere-Pro&logoColor=white)
 ![Gaming](https://img.shields.io/badge/Gaming-ED1C24?style=for-the-badge&logo=playstation&logoColor=white)
 
-
 ## Stats
 
-Here's a list of the programming languages I've used on GitHub:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruskinbk&layout=compact&theme=radical)
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact)
+
+## Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/ruskin-bk-876760166/)
+- [Twitter](https://twitter.com/bk_ruskin)
 

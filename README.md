@@ -16,11 +16,11 @@
 </p>
 
 <p align="center">
-  Here are a few of my hobbies:
-  - 📷 Photography
-  - 📚 Reading
-  - 🎼 Music
-  - 💻 Programming
+  Here are a few of my hobbies:<br/>
+  📷 Photography<br/>
+  📚 Reading<br/>
+  🎼 Music<br/>
+  💻 Programming
 </p>
 
 <h3 align="center">Skills</h3>
@@ -30,27 +30,29 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <a href="LINK_TO_HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html&perline=20" /></a>
+  <a href="LINK_TO_CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css&perline=20" /></a>
+  <a href="LINK_TO_JS" target="_blank"><img src="https://skillicons.dev/icons?i=js&perline=20" /></a>
+  <a href="LINK_TO_C" target="_blank"><img src="https://skillicons.dev/icons?i=c&perline=20" /></a>
+  <a href="LINK_TO_CPP" target="_blank"><img src="https://skillicons.dev/icons?i=cpp&perline=20" /></a>
+  <a href="LINK_TO_DOTNET" target="_blank"><img src="https://skillicons.dev/icons?i=dotnet&perline=20" /></a>
+  <a href="LINK_TO_VSCODE" target="_blank"><img src="https://skillicons.dev/icons?i=vscode&perline=20" /></a>
 </p>
 
 <h3 align="center">Currently Learning</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <a href="LINK_TO_PYTHON" target="_blank"><img src="https://skillicons.dev/icons?i=python&perline=20" /></a>
+  <a href="LINK_TO_DJANGO" target="_blank"><img src="https://skillicons.dev/icons?i=django&perline=20" /></a>
 </p>
 
 <h3 align="center">Other Activities</h3>
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Premiere%20Pro-EA77FF?style=for-the-badge&logo=Adobe-Premiere-Pro&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gaming-ED1C24?style=for-the-badge&logo=playstation&logoColor=white" />
+  <a href="LINK_TO_PHOTOSHOP" target="_blank"><img src="https://skillicons.dev/icons?i=ps&perline=20" /></a>
+  <a href="LINK_TO_PREMIERE_PRO" target="_blank"><img src="https://skillicons.dev/icons?i=pr&perline=20" /></a>
+<!--   <a href="LINK_TO_GAMING" target="_blank"><img src="https://skillicons.dev/icons?i=python&perline=20" /></a> -->
 </p>
 
 <p align="center">
@@ -78,7 +80,7 @@
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ruskin-bk-876760166/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue" /></a>
-  <a href="https://twitter.com/bk_ruskin" target="_blank"><img src="https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter&labelColor=blue" /></a>
-  <a href="https://www.facebook.com/usernamedoesnotmatter/" target="_blank"><img src="https://img.shields.io/badge/Facebook-blue?style=flat-square&logo=facebook&labelColor=blue" /></a>
+  <a href="LINK_TO_LINKEDIN" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&perline=20" /></a>
+  <a href="LINK_TO_TWITTER" target="_blank"><img src="https://skillicons.dev/icons?i=twitter&perline=20" /></a>
+<!--   <a href="https://www.facebook.com/usernamedoesnotmatter/" target="_blank"><img src="https://img.shields.io/badge/Facebook-blue?style=flat-square&logo=facebook&labelColor=blue" /></a> -->
 </p>

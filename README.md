@@ -8,6 +8,12 @@
   <img src="https://media.giphy.com/media/26u6dIwIphLj8h10A/giphy.gif" width="700" height="525" />
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/assebc/assebc/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/assebc/assebc/output/github-contribution-grid-snake.svg">
+</picture>
+
+
 <h3 align="center">About Me</h3>
 
 <p align="center">
@@ -84,3 +90,9 @@
   <a href="LINK_TO_TWITTER" target="_blank"><img src="https://skillicons.dev/icons?i=twitter&perline=20" /></a>
 <!--   <a href="https://www.facebook.com/usernamedoesnotmatter/" target="_blank"><img src="https://img.shields.io/badge/Facebook-blue?style=flat-square&logo=facebook&labelColor=blue" /></a> -->
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
+

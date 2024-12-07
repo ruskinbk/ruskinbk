@@ -17,7 +17,7 @@
 <h3 align="center">About Me</h3>
 
 <p align="center">
-  Hi there, I'm ruskinbk - Csit Student from <a href="https://www.google.com/search?q=nepal" target="_blank">Nepal</a>.
+  Hi there, I'm ruskinbk - CSIT Student from <a href="https://www.google.com/search?q=nepal" target="_blank">Nepal</a>.
   Welcome to my GitHub profile!
 </p>
 

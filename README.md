@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26u6dIwIphLj8h10A/giphy.gif" width="700" height="525" />
+  <img src="https://media.giphy.com/media/26u6dIwIphLj8h10A/giphy.gif" width="500" height="350" />
 </p>
 
 <picture>
@@ -65,11 +65,13 @@
 <!--   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/> -->
 </p>
 
+<!--
 <h3 align="center">Statistics</h3>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruskinbk&theme=tokyonight" alt="ruskinbk" />
 </p>
+-->
 
 <h3 align="center">Top Languages</h3>
 

@@ -8,8 +8,6 @@
   <img src="https://media.giphy.com/media/26u6dIwIphLj8h10A/giphy.gif" width="500" height="350" />
 </p>
 
-<h3 align="center">About Me</h3>
-
 <p align="center">
   Welcome to my GitHub profile!
 </p>
@@ -33,8 +31,10 @@
   <a href="LINK_TO_ILLUSTRATOR" target="_blank">
     <img src="https://skillicons.dev/icons?i=ai&perline=20" />
   </a>
-  
-   <a href="LINK_TO_PREMIERE_PRO" target="_blank">
+  <a href="LINK_TO_PHOTOSHOP" target="_blank">
+    <img src="https://skillicons.dev/icons?i=ps&perline=20" />
+  </a>
+  <a href="LINK_TO_PREMIERE_PRO" target="_blank">
     <img src="https://skillicons.dev/icons?i=pr&perline=20" />
   </a>
   <a href="LINK_TO_FIGMA" target="_blank">
@@ -44,6 +44,7 @@
 
 <p align="center">
   Here are a few of my hobbies:<br/>
+  🎨 Art<br/>
   📷 Photography<br/>
   📚 Reading<br/>
   🎼 Music<br/>
